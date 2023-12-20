@@ -1,6 +1,22 @@
+/* Footer css */
+
 .idevifylogo {
     width: 8rem;
 }
-.footerEmailInput{
+
+.footerEmailInput {
     width: 250px;
+}
+
+.unorderlist {
+    list-style: none;
+}
+
+.list {
+    text-decoration: none;
+}
+
+.socialmediaicons:hover {
+    transition: all 0.1s 0.1s linear;
+    transform: scale(1.2);
 }
